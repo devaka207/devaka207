@@ -6,6 +6,9 @@ I have years of tech experience, creating products, content and solutons while p
 Do you have a project or need a solution? Then ↴
 Contact me to get in touch now!
 - 🔭 I’m currently working on ...React Native,Flutter,Native Android.
+- - 🌱 I’m currently learning ...Django,Tensorflow,RASA,OpenCV.
+- - 👯 I’m looking to collaborate on ...FullStack Development.
+- - 💬 Ask me about ...Web Development,ML,Imageprocessing,Embedded Systems.
 <!--
 **devaka207/devaka207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
