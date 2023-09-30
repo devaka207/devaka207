@@ -89,6 +89,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devaka207/devaka207/output/snake.svg" alt="Snake animation" />
 
 ###
